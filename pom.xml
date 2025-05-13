@@ -36,7 +36,7 @@
           <archive>
             <manifest>
 
-        <mainClass>com.project101.project101</mainClass>
+        <mainClass>com.project101.project101.App</mainClass>
             </manifest>
           </archive>
         </configuration>
