@@ -36,7 +36,7 @@
           <archive>
             <manifest>
 
-        <mainClass>com.mavenproject10.project10.App</mainClass>
+        <mainClass>com.project101.project101</mainClass>
             </manifest>
           </archive>
         </configuration>
